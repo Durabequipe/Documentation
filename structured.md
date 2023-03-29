@@ -1,22 +1,22 @@
 ```json
 {
-  "id": "string",
-  "entrypointId": "string",
+  "id": "video_id",
+  "entrypointId": "video_id",
   "graph": {
     "nodes": [
       {
         "value": {
-        "videosIds": ["string","string"],
+        "videosIds": ["desktop_path","mobile_path"],
         "interactionPosition": "FULL | BOTTOM",
-        "popupDuration": "number",
+        "popupDuration": "number_second",
           "interactions": [
             {
-              "content": "string",
-              "videosIds": ["string","string"],
+              "content": "html_content",
+              "videosIds": ["desktop_path","mobile_path"],
             },
           ],
         },
-        "adjacent": ["string","string","string"],
+        "adjacent": ["video_id","video_id","video_id"],
       },
     ],
     "edgeDirection": "DIRECTED | UNDIRECTED"
