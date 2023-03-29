@@ -11,8 +11,8 @@
         "popupDuration": "number",
           "interactions": [
             {
-              content: "string",
-              videosIds: ["string","string"],
+              "content": "string",
+              "videosIds": ["string","string"],
             },
           ],
         },
