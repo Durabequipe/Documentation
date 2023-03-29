@@ -1,6 +1,6 @@
 ```json
 {
-  "id": "video_id",
+  "id": "project_id",
   "entrypointId": "video_id",
   "graph": {
     "nodes": [
