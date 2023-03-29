@@ -12,6 +12,7 @@
           "text": "string_question_to_ask | null",
           "interactions": [
             {
+              "id": "video_id"
               "content": "html_content",
               "videosPaths": ["desktop_path","mobile_path"],
             },
