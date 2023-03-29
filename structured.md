@@ -1,24 +1,25 @@
 ```json
 {
-  "id": string,
+  "id": "string",
+  "entrypointId": "string",
   "graph": {
     "nodes": [
       {
         "value": {
-        "videosIds": [string,string],
-        "interactionPosition": FULL | BOTTOM,
-        "popupDuration": number,
+        "videosIds": ["string","string"],
+        "interactionPosition": "FULL | BOTTOM",
+        "popupDuration": "number",
           "interactions": [
             {
-              content: string,
-              videosIds: [string,string],
+              content: "string",
+              videosIds: ["string","string"],
             },
           ],
         },
-        "adjacent": [string,string,string],
+        "adjacent": ["string","string","string"],
       },
     ],
-    "edgeDirection": DIRECTED | UNDIRECTED
+    "edgeDirection": "DIRECTED | UNDIRECTED"
   }
 }
 
