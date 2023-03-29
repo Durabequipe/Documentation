@@ -6,14 +6,14 @@
     "nodes": [
       {
         "value": {
-          "videosIds": ["desktop_path","mobile_path"],
+          "videosPaths": ["desktop_path","mobile_path"],
           "interactionPosition": "FULL | BOTTOM",
           "popupDuration": "number_second",
           "text": "string_question_to_ask | null",
           "interactions": [
             {
               "content": "html_content",
-              "videosIds": ["desktop_path","mobile_path"],
+              "videosPaths": ["desktop_path","mobile_path"],
             },
           ],
         },
