@@ -4,12 +4,18 @@
 
 * PHP 8.1 ou supérieur
 * MySQL 5.7 ou supérieur
+* Composer 2.1 ou supérieur
+* Git 
 
 ## Installation
 
 ### 1. Télécharger le code source
 
-* Cloner le code source depuis [GitHub](https://github.com/Durabequipe/Administration)
+* Cloner le code source depuis [GitHub](https://github.com)
+
+```bash
+git clone https://github.com/Durabequipe/Administration
+```
 
 ### 2. Installer les dépendances
 
