@@ -46,7 +46,7 @@ Retourne la liste des projets vidéos.
 
 ```
 
-### L'objet vidéo
+#### L'objet vidéo
 
 ```json
 {
