@@ -63,7 +63,7 @@ Retourne la liste des projets vidéos.
   "animation": {
     "title": "STRING",
     "position": "STRING", // full|bottom
-    "duration": "NUMBER", // in seconds
+    "duration": "NUMBER" // in seconds
   },
   "interactions": [
     {
