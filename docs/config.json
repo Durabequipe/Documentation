@@ -1,5 +1,14 @@
 {
+  "title": "Web-documentaire - Durabilia",
+  "tagline": "Web-documentaire - Durabilia",
+  "image": "app.png",
   "html": {
-    "auto_landing": false
-  }
+    "auto_landing": false,
+    "theme": "daux-green",
+    "auto_toc": true
+  },
+  "live": {
+    "clean_urls": true
+  },
+  "language": "fr"
 }
