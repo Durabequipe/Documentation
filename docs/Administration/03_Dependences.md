@@ -2,9 +2,9 @@
 
 ## Dépendences de l'application
 
-L'application requires
+L'application requires les dépendences suivantes :
 
-* FFMPEG (https://www.ffmpeg.org/) installer sur le serveur pour générer les vignettes de vidéos.
+* FFMPEG (https://www.ffmpeg.org/) pour générer les vignettes de vidéos.
 
 #### Installation de FFMPEG
 
