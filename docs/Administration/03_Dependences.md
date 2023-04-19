@@ -6,15 +6,13 @@ L'application requires les dépendences suivantes :
 
 * FFMPEG (https://www.ffmpeg.org/) pour générer les vignettes de vidéos.
 
-#### Installation de FFMPEG
-
-### Linux
+## Linux
 
 ```bash
 sudo apt-get install ffmpeg
 ```
 
-### Mac
+## Mac
 ```bash
 brew install ffmpeg
 ```
