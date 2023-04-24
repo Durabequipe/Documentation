@@ -61,9 +61,13 @@ mkdir -p storage/app/public/thumbnails
 mkdir -p storage/app/public/videos
 ```
 
-### 7. Lancer le serveur
+### 7. Générer le front-end
+```bash
+npm install
+npm run build
+```
 
-* Lancer le serveur
+### 8. Lancer le serveur
 
 ```bash
 php artisan serve
