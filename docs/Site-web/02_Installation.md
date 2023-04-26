@@ -25,6 +25,7 @@ cp src/environments/environment.sample.ts src/environments/environment.prod.ts
 # src/environments/environment.ts
 apiUrl: "{{ url de l'administration }}/api/",
 apiToken: "{{ la clé d'api }}",
+baseUrl: "{{ url du site web }}",
 ```
 
 ## Lancer le projet
